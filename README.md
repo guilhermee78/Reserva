@@ -89,7 +89,7 @@ Exemplo de corpo JSON output:
 
 
 GET /reservas/<id> – Retorna os detalhes de uma reserva específica pelo seu id.
-PUT /reservas/<id> – Atualiza uma reserva existente pelo seu id.
+
 
 Para que a API de Reserva de Salas funcione corretamente, a API de Gerenciamento Escolar (serviço de turmas) precisa estar acessível.
 
